@@ -61,7 +61,7 @@ How to reach me:
 ## Github Stats:
 
 <div>
-  <a href="https://andreydidoff.com.br">
+  <a href="https://andreydidoff.com.br"  target="_blank">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andreydidoff&show_icons=true&theme=dark&include_all_commits=true&count_private=true&title_color=78fe96"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreydidoff&layout=compact&langs_count=7&theme=dark&title_color=78fe96"/>
   </a>
